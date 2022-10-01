@@ -1,88 +1,70 @@
+# Getting Started with Create React App
 
-# BathBodyWorks - (Clone)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-BathBodyWorks is a popular American Brand. BathBodyWorks is a retail store chain which came in E-commerce business to sell their products. This Company sells products like lotions, soap, daily perfumes,candles,etc. This company's name itself gives an idea about their products. This Company is an Unicorn Company, and It is globally connected. 
-
-A Collaborative project built by a team of 5 executed in 7 days.
-
-
-![Logo](https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/on/demandware.static/Sites-BathAndBodyWorks-Site/-/default/dw3c999621/images/svg-icons/Logos-main.svg?yocs=o_s_)
-
-## Demo  🎥
-
-- Deployed Link:- [Enjoy the Experience](https://clone-of-bathandbodyworks.netlify.app/)
+## Available Scripts
 
 In the project directory, you can run:
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser.
-Run json server with db.json in port 8080
+### `npm start`
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-npm run build
-Builds the app for production to the build folder.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.
+The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about deployment for more information.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Tech Stack 💻
+### `npm run eject`
 
-- HTML5
-- CSS3
-- JAVASCRIPT
-- React
-- Redux
-- JSON server
-- Styled components
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Features ✨
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-- Authentication process undercover with Masai Authentication api.
-- Navigation bar with category dropdown
-- Add to cart/Add to wishlist
-- Dynamic Products, Wishlist page using locally created json data.
-- All the product description, prices, discounts, are updated in real time.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## Responsibilities 💪
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- Built Home page with big dropdown for navigation.
-- Developed a navigation bar and footer.
-- Developed user authentication.
-- Integrated recommendation slider in all product page.
-- Taken responsibility of project.
-- Linked all the pages using routes and protected routes
+## Learn More
 
-## Snap Shots 📷
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-**Home Page**
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-![Logo](https://i.ibb.co/zSRmxFZ/bbd1.png)
+### Code Splitting
 
-**Products  Page**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-![Logo](https://i.ibb.co/dcgntDV/bbd3.png)
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-**login Page**
+### Making a Progressive Web App
 
-![Logo](https://i.ibb.co/tKF3zZF/bbd2.png)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## Contributors  😇
+### Advanced Configuration
 
-- 👤 [Rushikesh Gaikwad](https://github.com/rushig777)
-- 👤 [Anupam kumar](https://github.com/hlv-kakashi)
-- 👤 [Anand biniya](https://github.com/Anandbiniya)
-- 👤 [Gajraj shekhawat](https://github.com/Gajraj-shekhawat)
-- 👤 [Vivek kumar](https://github.com/vivekkumar1994)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
+### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### `npm run build` fails to minify
 
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
